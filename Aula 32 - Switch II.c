@@ -40,3 +40,10 @@ void main()
         printf("Opção default.");
     }
 }
+
+
+//!         Professor se atrapalhou um pouco na video aula
+
+//? https://www.youtube.com/watch?v=DHapI7U5bMM&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4&index=32
+//? http://excript.com/linguagem-c/estrutura-selecao-multipla-c-parte2.html
+//? http://linguagemc.com.br/o-comando-switch-case-em-c/
