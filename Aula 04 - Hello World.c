@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 // Função inteira do Programa
-int main () {
+int main ()
+{
     //FAMOSO PRINT(Escrever algo dentro do padrão ("NONE"))
     printf("Hello World");
     //Pausa do sistyema apos executar a linha de comando de cima.
